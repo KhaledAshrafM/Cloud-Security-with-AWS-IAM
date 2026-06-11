@@ -21,7 +21,7 @@ We are using the AWS Identity and Access Management (IAM) service to control acc
 
 ### Tools and concepts
 
-n this project, I learned how to deploy and secure cloud infrastructure using two core AWS services:
+In this project, I learned how to deploy and secure cloud infrastructure using two core AWS services:
 
     Amazon EC2: I learned how to launch virtual servers, select appropriate AMIs and instance types, and organize infrastructure using custom Tags (specifically labeling instances as "production" or "development").
 
